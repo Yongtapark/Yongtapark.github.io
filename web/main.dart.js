@@ -27500,7 +27500,7 @@ _.fy=a6
 _.go=a7
 _.id=a8
 _.k1=a9},
-aU_(){var s,r,q,p,o,n,m,l="https://2c54-180-233-226-66.ngrok-free.app",k=null,j=t.VE
+aU_(){var s,r,q,p,o,n,m,l="https://fdce-180-233-226-66.ngrok-free.app",k=null,j=t.VE
 j=A.aMr(new A.MB(k),A.a([A.Jd(new A.att(),t.zT),A.Jd(new A.atu(),j),A.aJk(new A.atv(),new A.atw(),j,t.g_),A.Jd(new A.atx(),t.YZ),A.Jd(new A.aty(l),t.Qu),A.Jd(new A.atz(l),t._3)],t.Ds))
 if($.am==null)A.aP9()
 s=$.am
@@ -90265,7 +90265,7 @@ rs(){var s=0,r=A.T(t.yp),q,p=this,o,n,m,l
 var $async$rs=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.a1(A.aTy(A.fY(p.a+"/api/v0/records/simple/codeids"),A.aB(["Content-Type","application/json"],o,o)),$async$rs)
+return A.a1(A.aTy(A.fY(p.a+"/api/v0/records/simple/codeids"),A.aB(["Content-Type","application/json","ngrok-skip-browser-warning","69420"],o,o)),$async$rs)
 case 3:n=b
 m=B.bI.zz(0,B.a0.fK(0,n.w),null)
 l=n.b
